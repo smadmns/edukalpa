@@ -1,0 +1,45 @@
+Mobile/Web application for education purpose.
+Mainly three type of users Student, Teacher, Parent. Also there will be administrators.
+Applciation will start with courses for students from class V till class-XI along with JEE and other competitive courses.
+Adminstrators will be able to add/update/delete class/subject/chapeters.
+Contents will be arranged on Subject level per class.
+Each Subject (per class) will have multiple Chaters.
+Each chapters will have minimum following things.
+  Summary and important concepts.
+  Questions and answers.
+  MCQ Questions
+  A small (5-10) minutes video where teacher explains the chapter. For large chapters there can be multiple vidos.
+  One-to-one live session by teacher on this chapter. 
+Courses will be there overall on the basis of subjects also. Not dependent on Class. e.g. Certification Exam, Drawing, Music etc.  
+
+  
+LIVE SESSIONS
+Teachers will offer online sessions per Subject also. Sessions can be offered in the below combination
+  On the overall subject. This will be a recurring session.
+  Sessions covering one-or-more chapters. Will be useful if stuendts want to enroll only for few important chapters.
+  Sessions for only one chapter. Small live session. [Need to decide how we will start]
+Teachers can offer live sessions per exam also. Which can offer multiple subjects. Useful for competitive examinantions.
+Teachers will offer free live session time-to-time. Students can enroll beforehand. Maximum no of students are fixed. Students enrolling for the courses during this session will get
+extra discount.
+Students will have the provision for asking about a live session. Teachers can express interest and after agreement teacher can et a live session.
+
+MCQ
+MCQ questions will be provided on each chapter of the subject.
+MCQ tests will be offered on subject level.
+Additional MCQ tests will be offered on examination level. e.g. chemistry for JEE.
+
+PRICING 
+Registration is free. During registration user need to select their Subject and if required the Class. Few chapters will have free contents. To get the full content of that class
+user need to upgrade to paid membership. Once in paid membership they can avail all course contents of that class or chapter.
+Subscription will be Class/course level. For example if a student enrolls for class-IX he will get the course contents for all the subjects of class-IX. He will be able to attempt
+all MCQ on chapter level also free.
+
+All live sessions will be additionally charged. 
+We will fix the prcing for each sessions on course level. On subject level the course fees will be fixed by the APP. 
+
+
+
+
+
+
+  
